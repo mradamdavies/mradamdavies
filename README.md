@@ -7,7 +7,7 @@ I'm passionate about pentesting and a sardonic security specialist. My code migh
 
 Feel free to tell me how bad my code is. I'm a big boy. I promise not to cry!
 
-If you think you can help uscatch scammers, we may be able to work together. Check out my social links below to get in touch. 
+If you think you can help us catch scammers, we may be able to work together. Check out my social links below to get in touch. 
 
 
 ## Social
