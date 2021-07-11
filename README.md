@@ -13,7 +13,7 @@ If you think you can help uscatch scammers, we may be able to work together. Che
 ## Social
 ░ [Twitter](https://twitter.com/mradamdavies)
 
-░ [LinkedIn](https://www.linkedin.com/in/mradamdavies/)
+<!-- ░ [LinkedIn](https://www.linkedin.com/in/mradamdavies/) -->
 
 ░ [Hackersploit Discord](https://discord.gg/hackersploit)
 
