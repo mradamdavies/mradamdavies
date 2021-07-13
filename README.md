@@ -9,6 +9,9 @@ Feel free to tell me how bad my code is. I'm a big boy. I promise not to cry!
 
 If you think you can help us catch scammers, we may be able to work together. Check out my social links below to get in touch. 
 
+FYI; my original GitHub profile is here: https://github.com/Abeon
+
+I go by my real name now, so created this one intead!
 
 ## Social
 ░ [Twitter](https://twitter.com/mradamdavies)
