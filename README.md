@@ -3,7 +3,7 @@
 👋 Hi, I’m @mradamdavies - a.k.a Abeon / Nowares.
 I've worked with computers for around 25 years. My first computer was a BBC Micro!
 
-I'm passionate about pentesting and a sardonic security specialist. My code might be potato, but it's mashes spuds lovely :)
+I'm a passionate pentester and a sardonic security specialist.
 
 Feel free to tell me how bad my code is. I'm a big boy. I promise not to cry!
 
