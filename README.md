@@ -18,7 +18,7 @@ I go by my real name now, so created this one intead!
 
 <!-- ░ [LinkedIn](https://www.linkedin.com/in/mradamdavies/) -->
 
-░ [Abeon Tech Discord](https://discord.gg/nvaUnnub)
+░ [Abeon Tech Discord](https://discord.gg/vWm88avQ)
 
 ░ [Hackersploit Discord](https://discord.gg/hackersploit)
 
