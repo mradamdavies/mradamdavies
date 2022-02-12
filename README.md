@@ -18,11 +18,9 @@ I go by my real name now, so created this one intead!
 
 <!-- ░ [LinkedIn](https://www.linkedin.com/in/mradamdavies/) -->
 
-░ [Abeon Tech Discord](https://discord.gg/vWm88avQ)
+░ [Abeon Tech Discord](https://discord.gg/3q6uwWAJTK)
 
-░ [Hackersploit Discord](https://discord.gg/hackersploit)
-
-░ [Scambaiter Discord](https://discord.gg/WNmkymSH)
+░ [Hackersploit Discord](https://discord.gg/3AJRMArFgP)
 
 ░ [Buy me a coffee](https://www.buymeacoffee.com/mradamdavies)
 
