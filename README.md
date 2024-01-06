@@ -19,10 +19,8 @@ I go by my real name now, so created this one intead!
 <!-- ░ [LinkedIn](https://www.linkedin.com/in/mradamdavies/) -->
 
 ░ [Abeon Tech Discord](https://discord.gg/3q6uwWAJTK)
+░ [Team SDS Discord](https://discord.gg/WD8gsbuXUe)
 
-░ [Hackersploit Discord](https://discord.gg/3AJRMArFgP)
-
-░ [Buy me a coffee](https://www.buymeacoffee.com/mradamdavies)
 
 ## Stats
 [![mradamdavies' GitHub stats](https://github-readme-stats.vercel.app/api?username=mradamdavies&show_icons=true&theme=radical)](https://github.com/mradamdavies/github-readme-stats)
